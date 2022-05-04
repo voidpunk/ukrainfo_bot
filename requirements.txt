@@ -1,0 +1,13 @@
+beautifulsoup4==4.11.1
+bs4==0.0.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+func-timeout==4.3.5
+google==3.0.0
+idna==3.3
+lxml==4.8.0
+pyTelegramBotAPI==4.5.0
+requests==2.27.1
+soupsieve==2.3.2.post1
+telegraph==2.1.0
+urllib3==1.26.9
